@@ -1,0 +1,14 @@
+layout_spectrum: 0.9592914720997214
+typography_spectrum: 0.11526707536540926
+color:
+  brandStrength: 0.48993726959452033
+  lightness: 0.4551847870461643
+  saturation: 0.8440726432017982
+  rhythmicContrast: 0.7151585661340505
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Meditationsseite
